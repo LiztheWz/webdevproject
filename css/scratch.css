@@ -10,6 +10,7 @@
     color: #5A3E36;
     line-height: 100px;
     text-align: center;
+    position: relative;
 }
 
 img {
@@ -60,4 +61,6 @@ iframe {
 
 .footer {
     text-align: center;
+    font-style: italic;
+    position: relative;
 }
